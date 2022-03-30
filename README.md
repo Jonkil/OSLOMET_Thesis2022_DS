@@ -1,6 +1,6 @@
 # OSLOMET_Thesis2022_DS
 
-© 2022 Assem Maratova, Spring 2022
+© Spring 2022
 
 Pairwise connectivity and beyond: uncovering different functional brain networks in EEGs
 
