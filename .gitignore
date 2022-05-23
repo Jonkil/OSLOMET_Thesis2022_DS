@@ -2,7 +2,6 @@
 *.ipynb_checkpoint
 *.ipynb_checkpoints
 *.pdf
-*.txt
 *.data
 *.csv
 # Created by https://www.toptal.com/developers/gitignore/api/python
